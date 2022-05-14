@@ -21,6 +21,17 @@
 - 4PSK waveform.
 - 2FSK waveform.
 
+## Output examples
+![1_unipolarNRZ](https://user-images.githubusercontent.com/93927441/168408494-db558651-ccb0-4b42-b19f-1d4bb9e33155.png)
+![2_NRZL](https://user-images.githubusercontent.com/93927441/168408504-5933ffc8-07c9-42d1-806e-ccd51bcbfe90.png)
+![3_NRZI](https://user-images.githubusercontent.com/93927441/168408519-e8e52642-1975-427a-bcb5-0aedede13cb5.png)
+![4_RZ](https://user-images.githubusercontent.com/93927441/168408525-c5605bb7-e92c-406e-ac03-45b993d0ff2a.png)
+![5_Manchester](https://user-images.githubusercontent.com/93927441/168408531-04b66ee7-9f5e-4c60-aa23-b7d25575e105.png)
+![6_DifferentialManchester](https://user-images.githubusercontent.com/93927441/168408537-c0cb7135-2fcf-46c0-8892-365fd48397f9.png)
+![7 ASK](https://user-images.githubusercontent.com/93927441/168408540-deac1c6d-a762-4731-bdae-6048ace82cde.png)
+![8_2FSK](https://user-images.githubusercontent.com/93927441/168408544-6e578bc7-3c28-4981-bc1a-3713122b9429.png)
+![9_2PSK](https://user-images.githubusercontent.com/93927441/168408547-ba3df9cf-10d4-4a38-94d1-abf66bd26f6d.png)    
+
 ---
 Please leave comments if there are any problems, and it is welcomed to have discussions.   
 **AD for myself: if you are teaching at a U.S. university, please check out my [resume](https://github.com/ReavenH/ReavenH/blob/main/CV_ZhongmingHUANG.pdf) if you are interested. I am looking for a 2023-fall PhD position, thank you!**
