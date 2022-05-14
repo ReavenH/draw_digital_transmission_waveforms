@@ -22,5 +22,5 @@
 - 2FSK waveform.
 
 ---
-Please leave comments if there are any problems, and it is welcomed to have discussions.
-AD for myself: if you are teaching at a U.S. university, please check out my [resume]() if you are interested. I am looking for a 2023-fall PhD position, thank you!
+Please leave comments if there are any problems, and it is welcomed to have discussions.   
+**AD for myself: if you are teaching at a U.S. university, please check out my [resume](https://github.com/ReavenH/ReavenH/blob/main/CV_ZhongmingHUANG.pdf) if you are interested. I am looking for a 2023-fall PhD position, thank you!**
